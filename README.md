@@ -1,6 +1,8 @@
 # What is this?
 
-So, I've just dipped my toes into the world of creating form apps with C#. The funny thing is, this first try of mine is a bit of a dud – it doesn't hold onto any data once you close it (hence the "_temporary_" note-taking app title). But you know what? It might still have its moments of usefulness, even in its quirky state. It's like that funky tool you're not quite sure how to use, but you keep it around because you never know, right? Just a little experiment for now, but who knows, it might turn into something cooler down the road.
+![notebook](./s-l1200.jpg)
+
+So, I wanted to startcreating form apps with C# and came up with this temporary app. The funny thing is, this first try of mine is a bit of a dud – it doesn't hold onto any data once you close it (hence the "_temporary_" note-taking app title). But you know what? It might still have its moments of usefulness, even in its quirky state. It's like that funky tool you're not quite sure how to use, but you keep it around because you never know, right? Just a little experiment for now, but who knows, it might turn into something cooler down the road.
 
 # Usage
 
